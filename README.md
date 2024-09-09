@@ -64,9 +64,4 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 
 
 
-![ BAT BAR  2024 Baner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3yfEGknz9FbXLEQLyZlHC7o1ajJfVOBvIOCI7wUDvz5P4gUIQ5CRMGobOm67ZFbAkgU&usqp=CAU)
 
-
-## Frequently Asked Questions
-
-We have curated frequently asked questions and common mistakes on Discourse, you can read them here: [FAQ and Common mistakes](https://watching.nwsautodaily.com/zh/)
